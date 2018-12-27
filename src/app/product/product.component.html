@@ -1,0 +1,33 @@
+﻿<style>
+    .grid {
+    position: relative;
+}
+ 
+.grid-item {
+    position: absolute;
+}
+ 
+.grid-item.moving {
+    z-index: z-index + 1;
+}
+ 
+.placeholder {
+    position: absolute;
+}
+</style>
+<div class="col-md-3 col-md-offset-6">
+Product List
+</div>
+
+<ag-grid-angular
+  style="margin-left:0px; margin-top:20px; width: 1200px; height: 500px;"
+  class="ag-theme-balham"
+  [enableSorting]="true"
+  [enableFilter]="true"
+  [pagination]="true"
+  [rowData]="rowData"
+  [columnDefs]="columnDefs"
+>
+</ag-grid-angular>
+
+<p><a [routerLink]="['/']">Logout</a></p>

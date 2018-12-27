@@ -1,0 +1,114 @@
+[
+	{
+			  "id":1,
+			  "brand": "Sony",
+			  "category": "electronic",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 22000		
+    },
+	{
+			  "id":2,
+			  "brand": "Philips",
+			  "category": "electronic",
+			  "description": "XYZ",
+			  "seller": "XYZ Seller",
+			  "price": 23000		
+	},
+	{
+			  "id":3,
+			  "brand": "Samsung",
+			  "category": "Smart Phone",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 42000		
+	},
+	{
+			  "id":4,
+			  "brand": "Lenovo",
+			  "category": "Laptop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    },
+	{
+			  "id":5,
+			  "brand": "Lenovo",
+			  "category": "Laptop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    },
+	{
+			  "id":6,
+			  "brand": "Lenovo",
+			  "category": "Laptop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    },
+	{
+			  "id":7,
+			  "brand": "Lenovo",
+			  "category": "Laptop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    },
+	{
+			  "id":8,
+			  "brand": "Lenovo",
+			  "category": "Laptop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    },
+	{
+			  "id":9,
+			  "brand": "Lenovo",
+			  "category": "Laptop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    },
+	{
+			  "id":10,
+			  "brand": "Lenovo",
+			  "category": "Laptop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    },
+	{
+			  "id":11,
+			  "brand": "Lenovo",
+			  "category": "Laptop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    },
+	{
+			  "id":12,
+			  "brand": "Lenovo",
+			  "category": "Laptop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    },
+	{
+			  "id":13,
+			  "brand": "Lenovo",
+			  "category": "Desktop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    },
+	{
+			  "id":14,
+			  "brand": "Lenovo",
+			  "category": "Laptop",
+			  "description": "XYZ",
+			  "seller": "ABC Seller",
+			  "price": 82000		
+    }
+]	
